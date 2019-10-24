@@ -12,5 +12,8 @@ public class Main {
     }
     public void show(){
         System.out.println("show...");
+
+
+        System.out.println("我是Dev中创建的类");
     }
 }
